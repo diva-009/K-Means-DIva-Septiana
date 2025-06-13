@@ -1,1 +1,1 @@
-# K-Means-DIva-Septiana
+# K-Means-Diva-Septiana
